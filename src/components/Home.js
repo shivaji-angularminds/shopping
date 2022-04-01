@@ -125,11 +125,7 @@ function Home() {
  >Clear Completed</button>}
       </div>
 
-      <div className="undo" >
-          <button className="btn bg-warning btn-outline-primary" >UnDo </button>
-          <button className="btn bg-warning btn-outline-primary " >ReDo </button>
-
-      </div>
+      
     </div>
   );
 }
